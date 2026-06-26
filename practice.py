@@ -9,3 +9,5 @@ print("Array Mean:", np.mean(my_array))
 
 b = np.array([[9.0, 8.0, 7.0], [6.0, 5.0, 4.0]])
 print(b)
+print(b.ndim)  # dimension of b
+print(b.shape)  # shape of b
